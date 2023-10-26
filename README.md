@@ -1,5 +1,5 @@
 <div align="center">
-  <h2> <font color="#FFFFFF>Hi there 👋</font></h2>
+  <h2> <font color="#FFFFFF"> Hi there 👋</font></h2>
 <h3> My name is Santiago Auat</h3>
 Systems Engineering student at <a href="https://www.frro.utn.edu.ar/">UTN Frro</a> since 2019 
 <hr>
