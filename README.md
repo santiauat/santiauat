@@ -1,5 +1,5 @@
 ### Hi there 👋
-## My name is Santiago Auat
+<h1> My name is Santiago Auat</h1>
 Systems Engineering student since 2019
 
 <a href="https://www.linkedin.com/in/santiago-auat-54a417206/" target="_blank">
