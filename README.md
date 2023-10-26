@@ -1,6 +1,8 @@
-### Hi there 👋
-<h1> My name is Santiago Auat</h1>
+<div align="center">
+  <h2> Hi there 👋</h2>
+<h3> My name is Santiago Auat</h3>
 Systems Engineering student since 2019
+</div>
 <hr>
 <a href="https://www.linkedin.com/in/santiago-auat-54a417206/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
