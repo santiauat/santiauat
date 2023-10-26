@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" color="#FFFFFF">
   <h2> Hi there 👋</h2>
 <h3> My name is Santiago Auat</h3>
 Systems Engineering student since 2019
